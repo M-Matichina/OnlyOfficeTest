@@ -1,0 +1,10 @@
+platform :ios, '11.0'
+
+target 'OnlyOfficeTest' do
+  use_frameworks!
+
+  pod 'Alamofire'
+  pod 'ObjectMapper'
+  pod 'SwiftyJSON'
+
+end
